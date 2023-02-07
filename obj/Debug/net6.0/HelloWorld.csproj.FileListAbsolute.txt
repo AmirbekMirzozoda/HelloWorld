@@ -1,0 +1,15 @@
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/amirbekmirzozoda/RiderProjects/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
